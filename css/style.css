@@ -50,3 +50,16 @@ line-height: 40px;
 #mainmenu ul li a:hover {/*тестовое меню*/
 background-color:#666; 
 }
+
+.pic { /*флеш-игра*/
+	width: 300px;
+	height: 300px;
+	border-color: #14C4FF;
+	border-style: solid;
+	border-radius: 20px;
+}
+
+.pic:hover { /*флеш-игра*/
+	border-color: #F7FF14;
+	
+}
