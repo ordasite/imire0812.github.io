@@ -1,0 +1,22 @@
+body {
+	background-image: url(images/6.jpg);
+	background-size: 100%;
+}
+
+h1 {
+	color: #0085F1;
+	font-family: fantasy;
+	font-size: 35px;
+}
+
+div {
+	text-align: center;
+}
+table {
+	border-color: none;
+	margin-left: 350px;
+	font-size: 25px;
+	color: #0085F1;
+	font-family: fantasy;
+}
+
