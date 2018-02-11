@@ -25,3 +25,20 @@ iframe {
 	margin-top: 100px;
 	margin-bottom: 100px;
 }
+
+.volna img { /*картинка подвала*/
+	width: 100%;
+	margin-bottom:-20px;
+}
+
+.footer-bg { /*фон подвала*/
+	background-color: #385E9F;
+	
+}
+
+.copyright p { /*надпись подвала*/
+  margin: 0 0 5px 170px; 
+  padding-bottom: 10px;
+  font-size: 12px;
+  color: white;
+}
