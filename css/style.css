@@ -17,7 +17,7 @@ body { /*это для фона на странице*/
 	text-align: center
    }
 #mainmenu { /*тестовое меню*/
-background: #444;
+background: #E27704;
 position: relative;
 overflow:hidden;
 height:40px;
@@ -41,14 +41,14 @@ margin:0 10px;
 height:40px
 }
 #mainmenu ul li a {/*тестовое меню*/
-color: #fff;
+color: #000000;
 display:block;
 text-decoration:none;
 padding:0 15px;
 line-height: 40px;
 }
 #mainmenu ul li a:hover {/*тестовое меню*/
-background-color:#666; 
+background-color: #1FE263; 
 }
 
 .pic { /*флеш-игра*/
