@@ -40,15 +40,19 @@ div p {
   white-space: nowrap;
 }
 
+footer {
+	margin: 0;
+	padding: -25px;
+}
 
 .volna img { /*картинка подвала*/
 	width: 100%;
-	margin-bottom:-20px;
+	margin-bottom:-90px;
 }
 
 .footer-bg { /*фон подвала*/
 	background-color: #385E9F;
-	
+	height: 15px;
 }
 
 .copyright p { /*надпись подвала*/
